@@ -21,8 +21,8 @@
 					<ul>
 						<li><a href="#">Manga Curta</a></li>
 						<li><a href="#">Manga Comprida</a></li>
-						<li><a href="#">Camisa Social</a></li>
-						<li><a href="#">Camisa Casual</a></li>
+						<li><a href="#">Camisas Sociais</a></li>
+						<li><a href="#">Camisas Casuais</a></li>
 					</ul>
 				</li>
 				<li><a href="#">Calças</a></li>
