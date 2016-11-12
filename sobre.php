@@ -50,7 +50,7 @@
 					A família Pelho, tradicional da região, investiu todas as suas economias nessa nova iniciativa, revolucionária para a época.
 					O fundador <em>Eduardo Simões Pelho</em>, dotado de particular visão administrativa,
 					guiou os negócios da empresa durante mais de 50 anos, muitos deles ao lado de seu filho
-					<em>E. S. Pelho Filho</em>, atual CEO. O nome da empresa é inspirado no nome da família.
+					<em>Ernesto S. Pelho Filho</em>, atual CEO. O nome da empresa é inspirado no nome da família.
 				</p>
 
 				<p>
